@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2024bbm1007
+- 👋 Hi,
 - 👀 I’m interested in ...learning tech
 - 🌱 I’m currently learning ...mathematics
 - 💞️ I’m looking to collaborate on ...
